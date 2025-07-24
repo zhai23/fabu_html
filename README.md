@@ -1,2 +1,1 @@
-# fabu_html
-发布html
+# 按项目存放HTML文件
