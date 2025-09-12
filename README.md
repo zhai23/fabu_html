@@ -3,7 +3,7 @@
 ### 自动生成链接格式
 
 ```
-poxiao.netlify.app/项目名/游戏文件名.html
+poxiao.ldegh.com/项目名/游戏文件名.html
 ```
 
 上传之后按这个格式访问即可
