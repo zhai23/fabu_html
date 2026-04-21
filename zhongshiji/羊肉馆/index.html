@@ -7,7 +7,7 @@
   </head>
   <body style="text-align: center; padding: 0; border: 0; margin: 0;">
     <canvas id="unity-canvas" width=960 height=600 tabindex="-1" style="width: 960px; height: 600px; background: #231F20"></canvas>
-    <script src="Build/羊牧场.loader.js"></script>
+    <script src="Build/羊肉馆.loader.js"></script>
     <script>
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
         // Mobile device style: fill the whole browser client area with the game canvas:
@@ -25,9 +25,9 @@
       }
 
       createUnityInstance(document.querySelector("#unity-canvas"), {
-        dataUrl: "Build/羊牧场.data.gz",
-        frameworkUrl: "Build/羊牧场.framework.js.gz",
-        codeUrl: "Build/羊牧场.wasm.gz",
+        dataUrl: "Build/羊肉馆.data.gz",
+        frameworkUrl: "Build/羊肉馆.framework.js.gz",
+        codeUrl: "Build/羊肉馆.wasm.gz",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "My project",
