@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-My project (3)-0.1.0";
 const contentToCache = [
     "Build/羊肉馆.loader.js",
-    "Build/羊肉馆.framework.js",
-    "Build/羊肉馆.data",
-    "Build/羊肉馆.wasm",
+    "Build/羊肉馆.framework.js.unityweb",
+    "Build/羊肉馆.data.unityweb",
+    "Build/羊肉馆.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
